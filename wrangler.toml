@@ -7,7 +7,7 @@ compatibility_date = "2024-09-23"
 [[d1_databases]]
 binding = "DB" # available in your Worker on env.DB
 database_name = "twikoo"
-database_id = "91e1d670-bee1-4fab-8911-67031c648f6b"
+database_id = "ee9c57c8-ceea-4b06-aab8-c33505535301"
 
 [[r2_buckets]]
 binding = "R2"
